@@ -60,3 +60,6 @@ nav:
       - "1. Variables & data types": part2-basics/01-variables-and-types.md
       - "2. Numbers & math": part2-basics/02-numbers-and-math.md
       - "3. Strings": part2-basics/03-strings.md
+      - "4. Booleans & comparisons": part2-basics/04-booleans-and-comparisons.md
+      - "5. Input & output": part2-basics/05-input-and-output.md
+      - "6. Comments & code style": part2-basics/06-comments-and-style.md

@@ -12,9 +12,9 @@ written, ⏳ means coming soon.
 - ✅ Variables & data types
 - ✅ Numbers & math
 - ✅ Strings
-- ⏳ Booleans & comparisons
-- ⏳ Input & output
-- ⏳ Comments & code style
+- ✅ Booleans & comparisons
+- ✅ Input & output
+- ✅ Comments & code style
 
 ## Part 3 · Control Flow
 - ⏳ `if` / `elif` / `else`
