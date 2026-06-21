@@ -1,0 +1,6 @@
+# Build the website locally:
+#   python3.12 -m venv .venv
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+#   mkdocs serve      # preview at http://127.0.0.1:8000
+mkdocs-material>=9.5
